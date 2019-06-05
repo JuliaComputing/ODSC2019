@@ -1,0 +1,9 @@
+[deps]
+Flux = "587475ba-b771-5e3f-ad9e-33799f191a9c"
+Images = "916415d5-f1e6-5110-898d-aaa5f9f070e0"
+Interact = "c601a237-2ae4-5e1e-952c-7a85b0c7eef1"
+QuartzImageIO = "dca85d43-d64c-5e67-8c65-017450d5d020"
+RayTracer = "60dacb86-48ff-11e9-0f01-03ab8794bbc9"
+Statistics = "10745b16-79ce-11e8-11f9-7d13ad32a3b2"
+Trebuchet = "98b73d46-197d-11e9-11eb-69a6ff759d3a"
+Zygote = "e88e6eb3-aa80-5325-afca-941959d7151f"
